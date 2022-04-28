@@ -1,4 +1,4 @@
-### Hi there 👋
+### Study Steadily 👋
 - 🌱 I’m currently learning python, Django
 - 😄 my blog is https://hayongwoon.tistory.com/
 <!--
