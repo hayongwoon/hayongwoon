@@ -1,6 +1,6 @@
-### Study Steadily 👋
+### Study Steadily😄 
 - 🌱 I’m currently learning python, Django
-- 😄 my blog is https://hayongwoon.tistory.com/
+- 👋 my blog is https://hayongwoon.tistory.com/
 <!--
 **hayongwoon/hayongwoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
